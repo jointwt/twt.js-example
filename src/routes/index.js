@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const TwtJS = require('../../../twt.js/dist');
+const TwtJS = require('twt.js');
 
 const { 
   TWT_POD_URL,
